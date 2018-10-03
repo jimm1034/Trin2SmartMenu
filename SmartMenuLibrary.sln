@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMenuLibrary", "SmartMenuLibrary\SmartMenuLibrary.csproj", "{06847D9B-CF54-4C83-958C-E404F7FFFAB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVersion1.cs", "TestVersion1.cs\TestVersion1.cs.csproj", "{113F719B-6969-41CF-A57F-3BB8B4814F83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMenuTest", "TestVersion1.cs\SmartMenuTest.csproj", "{113F719B-6969-41CF-A57F-3BB8B4814F83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
